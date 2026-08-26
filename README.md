@@ -54,3 +54,5 @@ Created KPI cards to track important business metrics
 Used slicers and filters for dynamic analysis
 
 Created KPI cards to track important business metrics
+
+<img width="730" height="384" alt="Sales_Analysis_Dashboard" src="https://github.com/user-attachments/assets/c34cb6db-234f-476f-befa-eaeeab18e390" />
