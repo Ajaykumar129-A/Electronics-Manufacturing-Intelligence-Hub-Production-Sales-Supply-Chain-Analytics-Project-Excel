@@ -6,6 +6,7 @@ The project uses a structured star schema data model with multiple fact and dime
 Created interactive Excel dashboards with KPIs, charts, PivotTables, slicers, and dynamic reports to provide a clear view of manufacturing and business performance. The dashboard helps identify important trends, operational issues, and opportunities for improvement.
 
 Key analysis areas included production efficiency, defect rates, revenue, costs, profit margins, product performance, customer behavior, shipment performance, and year-over-year growth. Developed visual reports such as revenue vs. cost analysis, profit by product line, production and defect analysis, customer segmentation, shipment tracking, and sales growth analysis.
+
 The dashboard provides actionable insights that can help businesses understand their overall performance, identify high-performing products and customers, monitor manufacturing quality, evaluate logistics efficiency, and support data-driven decision-making.
 
 Key Skills & Tools
