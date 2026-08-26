@@ -51,8 +51,11 @@ Designed interactive dashboards using Pivot Tables and Pivot Charts
 Used slicers and filters for dynamic analysis
 
 Created KPI cards to track important business metrics
-Used slicers and filters for dynamic analysis
 
-Created KPI cards to track important business metrics
-
+Sales Analysis Dashboard
+==========================================================================================================================================
 <img width="730" height="384" alt="Sales_Analysis_Dashboard" src="https://github.com/user-attachments/assets/c34cb6db-234f-476f-befa-eaeeab18e390" />
+
+Production Analysis Dashboard
+==========================================================================================================================================
+<img width="496" height="344" alt="Production_Analysis_Dashboard" src="https://github.com/user-attachments/assets/384f3f0b-3c40-4b15-90af-3774eb9ffe0d" />
